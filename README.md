@@ -34,3 +34,14 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/></a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="36" height="36"/></a>
 </p>
+
+<div align="center" style="font-size: 25px;font-weight: 900;">
+	<p style="font-size: 25px;font-weight: 900;">- My Contributions -</p>
+  <a href="https://github.com/starlitnightsky">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=DevGod007&theme=dracula" />
+  </a>
+</div>
+
+<p align="center">
+	[My Profile Visitor Count] <img align="center" src="https://profile-counter.glitch.me/DevGod007/count.svg" alt="DevGod007's Github visitor Counts" />
+</p>
